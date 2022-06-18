@@ -1,0 +1,19 @@
+.footer {
+  text-align: center;
+  padding: 60px;
+  background-color: darkgrey;
+  margin-top: 20px;
+}
+.footer a {
+  font-size: 35px;
+  color: #F8CB2E;
+}
+.footer p {
+  color: #F8CB2E;
+}
+.footer fas {
+  color: #F8CB2E;
+}
+.footer a:hover {
+  color: white;
+}
